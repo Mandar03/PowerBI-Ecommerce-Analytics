@@ -17,7 +17,11 @@ Built using Power BI with real-world data modeling and business-focused KPIs.
 ---
 
 ## 📂 Dataset
-Olist Brazilian E-commerce dataset.
+
+This project uses the Olist Brazilian E-commerce public dataset.
+
+Dataset Source:
+👉 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Tables used:
 - Orders
