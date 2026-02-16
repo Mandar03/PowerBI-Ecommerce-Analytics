@@ -66,6 +66,12 @@ Monthly trends and growth patterns.
 ## 📸 Dashboard Preview
 (Add screenshots here)
 
+
+## 📊 Power BI Dashboard File
+
+Download dashboard here:
+https://drive.google.com/file/d/1dfmYST0SmG2dYOj3Pek-qIRjeE6B_W6x/view?usp=sharing
+
 ---
 
 ## 👨‍💻 Author
